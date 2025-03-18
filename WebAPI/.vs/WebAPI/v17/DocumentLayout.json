@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Todo\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\clientapp\\todoapp\\src\\app\\auth\\signup\\signup.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\clientapp\\todoapp\\src\\app\\auth\\signup\\signup.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\clientapp\\todoapp\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\clientapp\\todoapp\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\clientapp\\todoapp\\src\\app\\dashboard\\dashboard-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\clientapp\\todoapp\\src\\app\\dashboard\\dashboard-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\clientapp\\todoapp\\src\\app\\dashboard\\sidebar\\sidebar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\clientapp\\todoapp\\src\\app\\dashboard\\sidebar\\sidebar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\clientapp\\todoapp\\src\\app\\dashboard\\sidebar\\sidebar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\clientapp\\todoapp\\src\\app\\dashboard\\sidebar\\sidebar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\clientapp\\todoapp\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\clientapp\\todoapp\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\clientapp\\todoapp\\src\\app\\dashboard\\dashboard.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\clientapp\\todoapp\\src\\app\\dashboard\\dashboard.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\clientapp\\todoapp\\src\\app\\auth\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\clientapp\\todoapp\\src\\app\\auth\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\clientapp\\todoapp\\src\\app\\auth\\signup\\signup.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\clientapp\\todoapp\\src\\app\\auth\\signup\\signup.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\clientapp\\todoapp\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\clientapp\\todoapp\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\models\\modelclasses\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\modelclasses\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\models\\modelclasses\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\modelclasses\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\models\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\models\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|d:\\projects\\todo\\webapi\\webapi\\clientapp\\todoapp\\src\\app\\models\\response.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3C267FCD-86AB-4E34-AA5F-9987A5DB9F7F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\clientapp\\todoapp\\src\\app\\models\\response.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sidebar.component.css",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\sidebar\\sidebar.component.css",
+              "RelativeDocumentMoniker": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\sidebar\\sidebar.component.css",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\sidebar\\sidebar.component.css",
+              "RelativeToolTip": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\sidebar\\sidebar.component.css",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-25T15:14:36.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sidebar.component.html",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\sidebar\\sidebar.component.html",
+              "RelativeDocumentMoniker": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\sidebar\\sidebar.component.html",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\sidebar\\sidebar.component.html",
+              "RelativeToolTip": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\sidebar\\sidebar.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-25T15:10:29.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\index.html",
+              "RelativeDocumentMoniker": "WebAPI\\ClientApp\\ToDoApp\\src\\index.html",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\index.html",
+              "RelativeToolTip": "WebAPI\\ClientApp\\ToDoApp\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-25T15:08:39.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dashboard.module.ts",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\dashboard.module.ts",
+              "RelativeDocumentMoniker": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\dashboard.module.ts",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\dashboard.module.ts",
+              "RelativeToolTip": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\dashboard.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-25T12:08:30.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dashboard-routing.module.ts",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\dashboard-routing.module.ts",
+              "RelativeDocumentMoniker": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\dashboard-routing.module.ts",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\dashboard-routing.module.ts",
+              "RelativeToolTip": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Dashboard\\dashboard-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-25T12:08:27.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\login\\login.component.ts",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\login\\login.component.ts",
+              "RelativeToolTip": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\login\\login.component.ts",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwC0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-16T11:41:13.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "signup.component.html",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\signup\\signup.component.html",
+              "RelativeDocumentMoniker": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\signup\\signup.component.html",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\signup\\signup.component.html",
+              "RelativeToolTip": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\signup\\signup.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-16T07:39:11.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "signup.component.ts",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\signup\\signup.component.ts",
+              "RelativeDocumentMoniker": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\signup\\signup.component.ts",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\signup\\signup.component.ts",
+              "RelativeToolTip": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\signup\\signup.component.ts",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-16T07:36:41.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\Models\\ModelClasses\\User.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\ModelClasses\\User.cs",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\Models\\ModelClasses\\User.cs",
+              "RelativeToolTip": "WebAPI\\Models\\ModelClasses\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:39:54.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "response.ts",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\models\\response.ts",
+              "RelativeDocumentMoniker": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\models\\response.ts",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\models\\response.ts",
+              "RelativeToolTip": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\models\\response.ts",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-22T18:20:29.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\app.module.ts",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\app.module.ts",
+              "RelativeToolTip": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-20T15:04:22.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\app-routing.module.ts",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-20T15:04:19.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\Models\\ModelClasses\\BaseClass.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\ModelClasses\\BaseClass.cs",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\Models\\ModelClasses\\BaseClass.cs",
+              "RelativeToolTip": "WebAPI\\Models\\ModelClasses\\BaseClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:47:12.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\Models\\Common\\Response.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Common\\Response.cs",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\Models\\Common\\Response.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Common\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:24:21.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\Models\\Data\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Data\\EmployeeDbContext.cs",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\Models\\Data\\EmployeeDbContext.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Data\\EmployeeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:09:24.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:58:50.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Service\\EmployeeService.cs",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "WebAPI\\Service\\EmployeeService.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAL0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:04:24.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T12:56:32.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAADMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:54:20.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
