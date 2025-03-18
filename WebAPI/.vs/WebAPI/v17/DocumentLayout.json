@@ -180,7 +180,7 @@
               "RelativeDocumentMoniker": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\signup\\signup.component.ts",
               "ToolTip": "D:\\Projects\\Todo\\WebAPI\\WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\signup\\signup.component.ts",
               "RelativeToolTip": "WebAPI\\ClientApp\\ToDoApp\\src\\app\\Auth\\signup\\signup.component.ts",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAADYAAAAAAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-02-16T07:36:41.314Z",
               "EditorCaption": ""
@@ -279,7 +279,8 @@
               "RelativeToolTip": "WebAPI\\Controllers\\EmployeeController.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:58:50.513Z"
+              "WhenOpened": "2024-12-20T12:58:50.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -291,7 +292,8 @@
               "RelativeToolTip": "WebAPI\\Service\\EmployeeService.cs",
               "ViewState": "AQIAAEkAAAAAAAAAAAAAAL0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:04:24.09Z"
+              "WhenOpened": "2024-12-20T13:04:24.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
